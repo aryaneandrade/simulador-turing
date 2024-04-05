@@ -1,6 +1,4 @@
-<p style="center>
-    ![Interface_Enigma](https://github.com/arybytes/Simulador_Turing/assets/165725554/9a54f962-a9a0-4a67-bf96-5d72cc8c52b8)
- </p>
+
 <!DOCTYPE html>
 <html lang="pt">
 <head>
@@ -39,7 +37,7 @@
     Máquina Enigma (Cliente): O arquivo <code>enigma_Machine.py</code> simula a funcionalidade da Máquina Enigma, utilizada pelos alemães para criptografar mensagens durante a guerra. Ao reaizar o comando 
     anterior o arquivo <code>enigma_Machine.py</code> gera a mensagem cifradas e envia para o servidor.
          <div aling="center">
-      <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/3b03f6ba-6840-48f8-8fd3-df28b88d99fd" width="400" height="200" alt="Execucao_Enigma"/>
+      <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/3b03f6ba-6840-48f8-8fd3-df28b88d99fd" width="500" height="200" alt="Execucao_Enigma"/>
         </div>
     </li>
     <li>
