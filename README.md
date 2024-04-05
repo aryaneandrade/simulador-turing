@@ -8,7 +8,6 @@
  
 <body>
     <h2> Simulação da Máquina Enigma e Bombe em Python </h2>
-    ## **Topics:**
     <h3>Descrição:</h3>
     <p>
     Bem-vindo ao repositório que apresenta uma simulação da icônica Máquina Enigma e do dispositivo Bombe, ambos utilizados durante a Segunda Guerra Mundial para cifrar e decifrar mensagens secretas. Este 
