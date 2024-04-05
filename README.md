@@ -1,7 +1,4 @@
-   <figure>
-        <img align="center" alt="Js" height="200" width="400" src="https://github.com/arybytes/Simulador_Turing/assets/165725554/aa39e895-5bf6-4ef0-972e-3f93781d926f">
-        <figcaption style="display: block; text-align: center;">JavaScript</figcaption>
-    </figure>
+
 <!DOCTYPE html>
 <html lang="pt">
 <head>
@@ -26,9 +23,9 @@
     <li>  
     Primeiro, o arquivo do servidor (<code>bombe_Machine.py</code>) deve ser executado. Ele aguardará a conexão do cliente.
     </li>
-     <p style="text-aling:center;">
-      <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/aa39e895-5bf6-4ef0-972e-3f93781d926f" width="500" height="200" alt="Execucao_Bombe">
-        </p>
+     <div>
+      <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/aa39e895-5bf6-4ef0-972e-3f93781d926f" width="500" height="200" alt="Execucao_Bombe" aling="center">
+        </div>
     <li>
     Em seguida, execute o arquivo cliente (<code>enigma_Machine.py</code>). Ele estabelecerá a conexão com o servidor e abrirá uma interface para o usuário digitar uma mensagem que será criptografada e               enviada para o servidor
     O exemplo da mensagem abaixo cifrada pela Máquina Enigma pode representar um mandato crucial emitido pelos líderes do Eixo para dar início à Operação Barbarossa, o ataque à União Soviética.  
