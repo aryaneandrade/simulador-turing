@@ -23,7 +23,7 @@
     Em seguida, execute o arquivo cliente (<code>enigma_Machine.py</code>). Ele estabelecerá a conexão com o servidor e abrirá uma interface para o usuário digitar uma mensagem que será criptografada e               enviada para o servidor
     O exemplo da mensagem abaixo cifrada pela Máquina Enigma pode representar um mandato crucial emitido pelos líderes do Eixo para dar início à Operação Barbarossa, o ataque à União Soviética.  
           <div>
-      <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/6e9a62f1-e2c0-4aba-90bc-7f85d66ad0ee" width="500" height="200" alt="Interface_Enigma">
+      <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/6e9a62f1-e2c0-4aba-90bc-7f85d66ad0ee" width="500" height="333" alt="Interface_Enigma">
         </div>
      </li>
     <li>
@@ -50,7 +50,7 @@
         Este repositório é uma oportunidade para os entusiastas da história e da programação explorarem e compreenderem melhor o papel dessas tecnologias pioneiras no contexto histórico da Segunda Guerra Mundial.
     </p>
          <div>
-      <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/24e51687-8328-4a9f-8589-ccaa3a6c9b8e" width="500" height="200" alt="Alan_Turing">
+      <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/24e51687-8328-4a9f-8589-ccaa3a6c9b8e" width="500" height="333" alt="Alan_Turing">
         </div>
     </ul>
 </body>
