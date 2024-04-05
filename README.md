@@ -6,6 +6,7 @@
         Bem-vindo ao repositório que apresenta uma simulação da icônica Máquina Enigma e do dispositivo Bombe, ambos utilizados durante a Segunda Guerra Mundial para cifrar e decifrar mensagens secretas. Este programa em Python é uma homenagem à história da criptografia e à contribuição vital de Alan Turing e sua equipe na quebra do código Enigma.
     </p>
     <h3>Funcionalidades Principais:</h3>
+ ###
     <ul>
         <li>
             <strong>Comunicação via Protocolo TCP:</strong> O programa consiste em dois arquivos: <code>bombe_Machine.py</code> (servidor) e <code>enigma_Machine.py</code> (cliente), que estabelecem uma conexão TCP para enviar mensagens cifradas e decifradas entre si.
