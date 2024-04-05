@@ -1,5 +1,6 @@
-![Interface_Enigma](https://github.com/arybytes/Simulador_Turing/assets/165725554/9a54f962-a9a0-4a67-bf96-5d72cc8c52b8style=centerme)
-
+<p style="center>
+    ![Interface_Enigma](https://github.com/arybytes/Simulador_Turing/assets/165725554/9a54f962-a9a0-4a67-bf96-5d72cc8c52b8)
+ </p>
 <!DOCTYPE html>
 <html lang="pt">
 <head>
