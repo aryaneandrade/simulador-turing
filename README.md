@@ -1,6 +1,5 @@
- <div style="text-aling:center;">
-      <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/aa39e895-5bf6-4ef0-972e-3f93781d926f" width="500" height="200" alt="Execucao_Bombe">
-        </div>
+![Interface_Enigma](https://github.com/arybytes/Simulador_Turing/assets/165725554/9a54f962-a9a0-4a67-bf96-5d72cc8c52b8style=centerme)
+
 <!DOCTYPE html>
 <html lang="pt">
 <head>
