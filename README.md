@@ -11,11 +11,15 @@
             <strong>Comunicação via Protocolo TCP:</strong> O programa consiste em dois arquivos: <code>bombe_Machine.py</code> (servidor) e <code>enigma_Machine.py</code> (cliente), que estabelecem uma conexão TCP para enviar mensagens cifradas e decifradas entre si.
         </li>
         <li>
-            <strong>Execução do Programa:</strong>
-            <ol>
-                <li>Primeiro, o arquivo do servidor (<code>bombe_Machine.py</code>) deve ser executado. Ele aguardará a conexão do cliente.</li>
-                <li>Em seguida, execute o arquivo cliente (<code>enigma_Machine.py</code>). Ele estabelecerá a conexão com o servidor e abrirá uma interface para o usuário digitar uma mensagem que será criptografada e enviada para o servidor.</li>
-            </ol>
+        <h3>Execução do Programa:</h3>
+        <p>  
+        Primeiro, o arquivo do servidor (<code>bombe_Machine.py</code>) deve ser executado. Ele aguardará a conexão do cliente.
+        </p>
+        <p>
+        Em seguida, execute o arquivo cliente (<code>enigma_Machine.py</code>). Ele estabelecerá a conexão com o servidor e abrirá uma interface para o usuário digitar uma mensagem que será criptografada e               enviada para o servidor
+            
+        </p>
+    
         </li>
     </ul>
     <p>
