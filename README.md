@@ -1,6 +1,4 @@
-
-<body>
-    <h2 aling="center">Título: Simulação da Máquina Enigma e Bombe em Python</h2>
+ <h2 aling="center">Título: Simulação da Máquina Enigma e Bombe em Python</h2>
     <h3>Descrição:</h3>
     <p>
         Bem-vindo ao repositório que apresenta uma simulação da icônica Máquina Enigma e do dispositivo Bombe, ambos utilizados durante a Segunda Guerra Mundial para cifrar e decifrar mensagens secretas. Este programa em Python é uma homenagem à história da criptografia e à contribuição vital de Alan Turing e sua equipe na quebra do código Enigma.
@@ -42,7 +40,6 @@
     </li>
    </ul>
     <h3>Importância Histórica:</h3>
-  
    Esta simulação não apenas demonstra as habilidades técnicas necessárias para implementar uma versão virtual das máquinas Enigma e Bombe, mas também serve como um tributo à genialidade de Alan Turing e sua 
    equipe. Seu trabalho na decifração do código Enigma foi fundamental para a vitória dos Aliados na Segunda Guerra Mundial e teve um impacto significativo no desenvolvimento subsequente da computação e da 
    criptografia.
@@ -50,6 +47,4 @@
          <div aling="center">
       <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/24e51687-8328-4a9f-8589-ccaa3a6c9b8e" width="500" height="333" alt="Alan_Turing">
         </div>
-  
-</body>
 
