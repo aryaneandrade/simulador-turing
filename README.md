@@ -1,6 +1,6 @@
 **Título:** Simulação da Máquina Enigma e Bombe em Python 
 
- ![Imagem](enigma (1).jpg)
+ ![Imagem](bombe (1).jpg)
 
 
 **Descrição:** 
