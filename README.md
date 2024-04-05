@@ -1,3 +1,4 @@
+<body>
  <h2 aling="center">Título: Simulação da Máquina Enigma e Bombe em Python</h2>
     <h3>Descrição:</h3>
     <p>
@@ -47,4 +48,4 @@
          <div aling="center">
       <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/24e51687-8328-4a9f-8589-ccaa3a6c9b8e" width="500" height="333" alt="Alan_Turing">
         </div>
-
+</body>
