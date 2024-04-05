@@ -1,4 +1,7 @@
-
+   <figure>
+        <img align="center" alt="Js" height="200" width="400" src="https://github.com/arybytes/Simulador_Turing/assets/165725554/aa39e895-5bf6-4ef0-972e-3f93781d926f">
+        <figcaption style="display: block; text-align: center;">JavaScript</figcaption>
+    </figure>
 <!DOCTYPE html>
 <html lang="pt">
 <head>
