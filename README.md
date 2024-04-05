@@ -1,7 +1,7 @@
 
 <body>
     <h2>Título: Simulação da Máquina Enigma e Bombe em Python</h2>
-    <h2>Descrição:</h2>
+    <h3>Descrição:</h3>
     <p>
         Bem-vindo ao repositório que apresenta uma simulação da icônica Máquina Enigma e do dispositivo Bombe, ambos utilizados durante a Segunda Guerra Mundial para cifrar e decifrar mensagens secretas. Este programa em Python é uma homenagem à história da criptografia e à contribuição vital de Alan Turing e sua equipe na quebra do código Enigma.
     </p>
@@ -16,27 +16,28 @@
     <li>  
     Primeiro, o arquivo do servidor (<code>bombe_Machine.py</code>) deve ser executado. Ele aguardará a conexão do cliente.
     </li>
-    <p>
+    <li>
     Em seguida, execute o arquivo cliente (<code>enigma_Machine.py</code>). Ele estabelecerá a conexão com o servidor e abrirá uma interface para o usuário digitar uma mensagem que será criptografada e               enviada para o servidor
     O exemplo da mensagem abaixo cifrada pela Máquina Enigma pode representar um mandato crucial emitido pelos líderes do Eixo para dar início à Operação Barbarossa, o ataque à União Soviética.   
-     </p>
-    <p>
+     </li>
+    <li>
     Máquina Enigma (Cliente): O arquivo <code>enigma_Machine.py</code> simula a funcionalidade da Máquina Enigma, utilizada pelos alemães para criptografar mensagens durante a guerra. Ao reaizar o comando 
     anterior o arquivo <code>enigma_Machine.py</code> gera a mensagem cifradas e envia para o servidor.
-    </p>
-    <p>
+    </li>
+    <li>
     Máquina Bombe (Servidor):  O arquivo <code>bombe_Machine.py</code> atua como servidor, recebendo mensagens criptografadas do cliente e aplicando o processo de descriptografia. O resultado é exibido no 
     terminal, revelando o conteúdo original da mensagem.
-    </p>
-        </li>
+    </li>
    </ul>
-    <h2>Importância Histórica:</h2>
+    <h3>Importância Histórica:</h3>
+    <ul>
     <p>
         Esta simulação não apenas demonstra as habilidades técnicas necessárias para implementar uma versão virtual das máquinas Enigma e Bombe, mas também serve como um tributo à genialidade de Alan Turing e sua equipe. Seu trabalho na decifração do código Enigma foi fundamental para a vitória dos Aliados na Segunda Guerra Mundial e teve um impacto significativo no desenvolvimento subsequente da computação e da criptografia.
     </p>
     <p>
         Este repositório é uma oportunidade para os entusiastas da história e da programação explorarem e compreenderem melhor o papel dessas tecnologias pioneiras no contexto histórico da Segunda Guerra Mundial.
     </p>
+    </ul>
 </body>
 
     ![Execucao_Bombe](https://github.com/arybytes/Simulador_Turing/assets/165725554/aa39e895-5bf6-4ef0-972e-3f93781d926f)
