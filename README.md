@@ -16,7 +16,7 @@
     <li>  
     Primeiro, o arquivo do servidor (<code>bombe_Machine.py</code>) deve ser executado. Ele aguardará a conexão do cliente.
         <body>
-      <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/aa39e895-5bf6-4ef0-972e-3f93781d926f" width="4,36" height="11,6" alt="Execucao_Bombe">
+      <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/aa39e895-5bf6-4ef0-972e-3f93781d926f" width="436" height="1162" alt="Execucao_Bombe">
         </body>
     </li>
     <li>
