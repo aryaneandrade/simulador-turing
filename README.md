@@ -1,6 +1,5 @@
 **Título:** Simulação da Máquina Enigma e Bombe em Python 
 
- ![Imagem](Simulador_Turing/bombe (1).jpg)
 
 
 **Descrição:** 
