@@ -1,4 +1,4 @@
- <p style="text-aling:center;">
+ <p style="center">
       <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/aa39e895-5bf6-4ef0-972e-3f93781d926f" width="500" height="200" alt="Execucao_Bombe">
         </p>
 <!DOCTYPE html>
