@@ -1,4 +1,4 @@
-como centralizar as imagens no codigo abaixo: <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
