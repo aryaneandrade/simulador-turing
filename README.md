@@ -17,14 +17,10 @@
         </p>
         <p>
         Em seguida, execute o arquivo cliente (<code>enigma_Machine.py</code>). Ele estabelecerá a conexão com o servidor e abrirá uma interface para o usuário digitar uma mensagem que será criptografada e               enviada para o servidor
-            
+        O exemplo da mensagem abaixo cifrada pela Máquina Enigma pode representar um mandato crucial emitido pelos líderes do Eixo para dar início à Operação Barbarossa, o ataque à União Soviética.   
         </p>
-    
         </li>
     </ul>
-    <p>
-        O exemplo da mensagem abaixo cifrada pela Máquina Enigma pode representar um mandato crucial emitido pelos líderes do Eixo para dar início à Operação Barbarossa, o ataque à União Soviética.
-    </p>
     <h3>Máquina Enigma (Cliente):</h3>
     <p>
         O arquivo <code>enigma_Machine.py</code> simula a funcionalidade da Máquina Enigma, utilizada pelos alemães para criptografar mensagens durante a guerra. Ao reaizar o comando anterior o arquivo <code>enigma_Machine.py</code> gera a mensagem cifradas e envia para o servidor.
