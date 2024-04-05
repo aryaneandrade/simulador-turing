@@ -1,4 +1,6 @@
 **Título:** Simulação da Máquina Enigma e Bombe em Python 
+![Interface_Enigma](https://github.com/arybytes/Simulador_Turing/assets/165725554/28d05e1b-00e6-49af-b459-44a7b07879ba)
+
 
 
 
