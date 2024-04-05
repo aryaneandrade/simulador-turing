@@ -5,12 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         .center {
-            text-align: center;
+            margin-left: auto;
+            margin-right: auto;
+            display: block;
         }
     </style>
 </head>
 <body>
-    <h2 class="center">Título: Simulação da Máquina Enigma e Bombe em Python</h2>
+    <h2 style="text-align: center;">Título: Simulação da Máquina Enigma e Bombe em Python</h2>
     <h3>Descrição:</h3>
     <p>
         Bem-vindo ao repositório que apresenta uma simulação da icônica Máquina Enigma e do dispositivo Bombe, ambos utilizados durante a Segunda Guerra Mundial para cifrar e decifrar mensagens secretas. Este programa em Python é uma homenagem à história da criptografia e à contribuição vital de Alan Turing e sua equipe na quebra do código Enigma.
