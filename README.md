@@ -51,9 +51,9 @@
    </ul>
     <h3>Importância Histórica:</h3>
    <li> 
-    Esta simulação, embora simplificada, procura recriar de maneira modesta as complexas operações envolvidas na descriptografia da Máquina Enigma.O processo real de 
-    descriptografia era muito mais sofisticado e demandava um alto nível de expertise técnica. A genialidade de Alan Turing e sua equipe foi fundamental para a vitória dos Aliados na Segunda Guerra Mundial e 
-    teve um impacto significativo no desenvolvimento subsequente da computação e da criptografia.
+    Esta simulação, embora simplificada, procura recriar de maneira modesta as complexas operações envolvidas na descriptografia da Máquina Enigma. O processo real de descriptografia era muito mais sofisticado e 
+    demandava um alto nível de expertise técnica. A genialidade de Alan Turing e sua equipe foi fundamental para a vitória dos Aliados na Segunda Guerra Mundial e teve um impacto significativo no desenvolvimento 
+    subsequente da computação e da criptografia.
     
 Este repositório é uma oportunidade para os entusiastas da história e da programação explorarem e compreenderem melhor o papel dessas tecnologias pioneiras no contexto histórico da Segunda Guerra Mundial.
        <div aling="center">
