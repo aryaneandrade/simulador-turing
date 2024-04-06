@@ -52,9 +52,9 @@
     <h3>Importância Histórica:</h3>
    <li> 
     Esta simulação, embora simplificada, procura recriar de maneira modesta as complexas operações envolvidas na descriptografia da Máquina Enigma. É essencial lembrar que o processo real de 
-    descriptografia era muito mais sofisticado e demandava um alto nível de expertise técnica. A genialidade de Alan Turing e sua equipe realizando a decifração do código Enigma foi fundamental para a vitória 
-    dos Aliados na Segunda Guerra Mundial e teve um impacto significativo no desenvolvimento subsequente da computação e da criptografia.
-   Este repositório é uma oportunidade para os entusiastas da história e da programação explorarem e compreenderem melhor o papel dessas tecnologias pioneiras no contexto histórico da Segunda Guerra Mundial.
+    descriptografia era muito mais sofisticado e demandava um alto nível de expertise técnica. A genialidade de Alan Turing e sua equipe foi fundamental para a vitória dos Aliados na Segunda Guerra Mundial e 
+    teve um impacto significativo no desenvolvimento subsequente da computação e da criptografia.
+  Este repositório é uma oportunidade para os entusiastas da história e da programação explorarem e compreenderem melhor o papel dessas tecnologias pioneiras no contexto histórico da Segunda Guerra Mundial.
        <div aling="center">
       <img src="https://github.com/arybytes/Simulador_Turing/assets/165725554/24e51687-8328-4a9f-8589-ccaa3a6c9b8e" width="500" height="333" alt="Alan_Turing"/>
       </div>
